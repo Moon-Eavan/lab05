@@ -1,1 +1,11 @@
+# Android
+.gradle/
+.idea/
+.kotlin/
+local.properties
+build/
+**/build/
+
+# Python
 *.pyc
+__pycache__/
